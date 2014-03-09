@@ -1,0 +1,31 @@
+body{
+    background-image:  url(../img/images.jpg);
+}
+
+.top-padding{
+    padding-top: 40px;
+}
+
+.top-line{
+    border-top: 1px solid #ccc;
+    padding-top: 15px;
+}
+
+.forgot-link, .footer-links{
+    margin-left: 10px;
+}
+
+.social-login{
+    padding: 0 10px;
+}
+
+.githab-img{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+}
+
+a:hover{
+    text-decoration: none;
+}
