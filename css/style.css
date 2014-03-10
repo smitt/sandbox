@@ -29,3 +29,36 @@ body{
 a:hover{
     text-decoration: none;
 }
+
+.nav-menu > li{
+    text-align: right;
+}
+
+.nav-menu > li > a{
+    padding: 2px 15px;
+}
+
+.nav-menu > li > a:hover{
+    background-color: transparent;
+    margin: 0px;
+}
+
+.lang-div{
+    height: 76px;
+    padding-top: 10px;
+}
+
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus{
+    background-color: #fff;
+}
+
+.nav .dropdown>a, .nav .dropdown>a:hover, .nav .dropdown>a:focus{
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.navbar-nav>li>a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
